@@ -1,4 +1,4 @@
-# All-assignments
+# All-assignments-information
 
 ÖDEV01 - ASSİGNMENT01
 #It asks the user for a number and asks the number again as much as the number entered, and shows the sum, average and ordinal state of the numbers entered.

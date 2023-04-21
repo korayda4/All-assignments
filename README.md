@@ -44,6 +44,7 @@
 #2 işlemli hikaye oyunudur. seçtiğiniz işlemlere göre hikaye değişir
 
 STUDENT REGİSTRATİON BASİC
+https://github.com/korayda4/Student-Registration-Basic
 
 #at any time you want; A simple system where you can enroll students, see the information of any student you want, have the information of all students listed, have certain department students listed, have students listed by gender or change the information of the registered student.
 
